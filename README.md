@@ -1,4 +1,5 @@
-# 我收集的屏蔽广告hosts文件（由于收集的时间有的长，具体功能屏蔽什么的忘了，作者出处也不标了）
+# 我收集的屏蔽广告hosts文件
+## （由于收集的时间有的长，具体功能屏蔽什么的忘了，作者出处也不标了，如果知道原作者，欢迎提交合并请求）
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
