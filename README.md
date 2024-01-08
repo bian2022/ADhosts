@@ -1,14 +1,23 @@
 # 我收集的屏蔽广告hosts文件
 ## 由于收集的时间有些长，具体屏蔽什么的也忘了，作者出处也不标了，如果知道原作者，欢迎提交合并请求
 https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
+
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
+
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+
 https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
+
 https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
+
 https://gist.githubusercontent.com/sophistifunk/3629307/raw/afc68fbb6c15453a16099eb2fdd4b82fa637206c/hosts
+
 https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts
 
 ---
